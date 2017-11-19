@@ -8,7 +8,7 @@ There is four main parts to the project:
 3) Client side front end UI allowing users to see the actions and behaviors
 4) Intergration and QA between all three above for smooth easy program to use and play with
 
-Idea behind the project is to learn about Sphinx and how to use it to read input from the users voice and output/react with specific behaviors. We've designed a web client that speaks to our voice AI and helps to simulate a robotic dog AI that talks to you. We gave the AI "Goodboye" pseudo-sentient feel and the capabilities of performing multiple actions based of the project criterium.
+Idea behind the project is to learn about Sphinx and how to use it to read input from the users voice and output/react with specific behaviors. We've designed a web client that speaks to our voice AI and helps to simulate a robotic dog AI that talks to you. We gave the AI "Goodboye" pseudo-sentient feel and the capabilities of performing multiple actions based of the project criterium. Concepts of osascript, system commands, writing and using pocketsphinx still in C, creating a web client for users, server setups and creativity was heavily explored during the project to make it a success.
 
 Daniella Gerard https://github.com/dgerard42
 
